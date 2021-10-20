@@ -1,6 +1,3 @@
-# Movie-Recommendation-With-De ployment ; Web Devlopment Credit ---> https://mrswsa.herokuapp.com/
-
-
 Movie Recommendation System Web App Deployment &amp; Sentiment  Analysis with Machine Learning--
 
 ![yyjj](https://user-images.githubusercontent.com/56412471/137596026-dd3733af-94f7-4ff9-a3eb-ca238a4e7947.JPG)
