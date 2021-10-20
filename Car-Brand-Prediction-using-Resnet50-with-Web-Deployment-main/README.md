@@ -10,5 +10,3 @@ Sample Predicted Output:
 ![g](https://user-images.githubusercontent.com/56412471/137790644-dfe95103-73f6-4ca7-9a6b-e7478db05e68.JPG)
 
 
-App Running:
-![gth](https://user-images.githubusercontent.com/56412471/137790727-6486cefe-8385-44bf-8b6e-7c17b15229e0.JPG)
